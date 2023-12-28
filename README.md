@@ -15,6 +15,6 @@ ____
 https://disk.yandex.ru/d/RyU6pth2U40vuQ
 :star:
 
-# Ссылка на ютуб ролик
+# Ссылка на ютуб ролик с полётом ракеты
 ____
 https://youtu.be/E9lrF9mUTw0
